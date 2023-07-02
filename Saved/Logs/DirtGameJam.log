@@ -16105,3 +16105,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.02-02.19.17:862][506]LogContentValidation: Display: Validating /Game/GridGenerator.GridGenerator_C /Game/DirtGameJam/Maps/empty.empty:PersistentLevel.GridGenerator_C_UAID_FC34976B390B969101_1472953680
 [2023.07.02-02.19.17:862][506]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision
 [2023.07.02-02.19.17:862][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Turret.Turret
+[2023.07.02-02.39.29:478][241]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1334 files in 2023 folders with total size 13 MiB.
+[2023.07.02-03.12.43:533][600]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GridGenerator.GridGenerator
+[2023.07.02-03.12.43:534][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-03.12.43:534][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-03.27.12:330][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.07.02-03.38.14:125][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.02-03.38.14:244][905]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto3
+[2023.07.02-03.38.14:244][905]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61_Auto357A7C19F4B4C3BC2662D44BC345B5BA1.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto3.uasset'
+[2023.07.02-03.38.14:245][905]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.147
+[2023.07.02-03.38.14:245][905]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
+[2023.07.02-03.38.14:245][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GridGenerator] ([2] browsable assets)...
+[2023.07.02-03.38.14:245][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/GridGenerator]
+[2023.07.02-03.38.14:245][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GridGenerator" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/GridGenerator_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.07.02-03.38.14:258][905]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GridGenerator_Auto3
+[2023.07.02-03.38.14:259][905]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/GridGenerator_Auto3494DB6D347CE4A14B1F347A97C50AC22.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/GridGenerator_Auto3.uasset'
+[2023.07.02-03.38.14:259][905]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.07.02-03.39.30:463][595]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.039 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1334 files in 2023 folders with total size 13 MiB.
