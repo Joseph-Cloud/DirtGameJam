@@ -14556,3 +14556,1552 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.01-21.24.08:021][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.07.01-21.24.08:021][885]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
 [2023.07.01-21.24.08:021][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.24.33:443][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.07.01-21.24.33:477][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto7
+[2023.07.01-21.24.33:477][ 53]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61_Auto7206D71AD413402178C537AB7719BDEA0.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto7.uasset'
+[2023.07.01-21.24.33:477][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.053
+[2023.07.01-21.24.33:477][ 53]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2023.07.01-21.25.25:020][535]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.26:106][629]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.25.30:505][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.01-21.25.30:588][926]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61
+[2023.07.01-21.25.30:588][926]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61FB54BE814BF07ABDD71D8CA759EB22EC.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61.uasset'
+[2023.07.01-21.25.30:590][926]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7
+[2023.07.01-21.25.30:590][926]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/MKK0LI09DNYDND9EQJ5XX7EF292B404F52E014DA48A0B58236C136.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7.uasset'
+[2023.07.01-21.25.30:597][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.57 sec)
+[2023.07.01-21.25.30:601][926]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.01-21.25.30:602][926]LogContentValidation: Display: Validating /Script/Engine.CameraActor /Game/DirtGameJam/Maps/empty.empty:PersistentLevel.CameraActor_UAID_FC34976B390B939101_1732162151
+[2023.07.01-21.25.30:602][926]LogContentValidation: Display: Validating /Game/GridGenerator.GridGenerator_C /Game/DirtGameJam/Maps/empty.empty:PersistentLevel.GridGenerator_C_UAID_FC34976B390B969101_1472953680
+[2023.07.01-21.25.31:548][985]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.25.31:553][985]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.25.31:555][985]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.25.31:555][985]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.25.31:555][985]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 942 us)
+[2023.07.01-21.25.31:556][985]LogWorldPartition: Display: GenerateStreaming took 639 us (total: 21 ms)
+[2023.07.01-21.25.31:556][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.25.31:556][985]PIE: New page: PIE session: empty (Jul 1, 2023, 1:25:31 PM)
+[2023.07.01-21.25.31:556][985]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.25.31:569][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013071s)
+[2023.07.01-21.25.31:569][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.013096s)
+[2023.07.01-21.25.31:569][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.25.31:569][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.25.31:570][985]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.25.31:570][985]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.25.31:570][985]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.25.31:570][985]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.25.31:574][985]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.25.31:574][985]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 725 ms)
+[2023.07.01-21.25.31:574][985]LogPlayLevel: PIE: World Init took: (0.004479s)
+[2023.07.01-21.25.31:591][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.07.01-21.25.31:594][985]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.25.31:594][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.25.31:594][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.25.31:594][985]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.25.31:594][985]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.25.31:594][985]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.25.31:596][985]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.25.31:609][985]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.25.31:610][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.25.31:610][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.25.31:610][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.25.31:610][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.07.01-21.25.31:610][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.07.01-21.25.31:611][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.07.01-21.25.31:611][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.07.01-21.25.31:611][985]LogInit: FAudioDevice initialized with ID 33.
+[2023.07.01-21.25.31:611][985]LogAudio: Display: Audio Device (ID: 33) registered with world 'empty'.
+[2023.07.01-21.25.31:611][985]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.07.01-21.25.31:614][985]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.25.31:623][985]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.25.31
+[2023.07.01-21.25.31:624][985]LogWorld: Bringing up level for play took: 0.010270
+[2023.07.01-21.25.31:625][985]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.07.01-21.25.31:626][985]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(42), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.25.31:626][985]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2872.940 Y=-7068.219 Z=967.065,P=0.000000 Y=154.000929 R=-0.000000
+[2023.07.01-21.25.31:628][985]LogStreaming: Display: FlushAsyncLoading(-1): 43 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.25.31:890][985]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(0), CellsToLoad(0), CellsToUnload(1)
+[2023.07.01-21.25.31:890][985]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-45.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.25.31:891][985]PIE: Server logged in
+[2023.07.01-21.25.31:891][985]PIE: Play in editor total start time 0.338 seconds.
+[2023.07.01-21.25.31:981][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:981][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:981][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:981][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:982][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:982][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:982][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:982][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.31:983][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:004][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:004][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:005][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:005][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:005][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:006][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:006][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:006][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.32:006][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.56:443][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.25.56:443][541]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.25.56:459][541]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.25.56:464][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.25.56:464][541]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.25.56:468][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.25.56:472][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.25.56:497][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.01-21.25.56:497][541]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.07.01-21.25.56:497][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.07.01-21.25.56:498][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.07.01-21.25.56:501][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.25.56:514][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.07.01-21.25.56:526][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.25.56:558][542]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.07.01-21.25.56:563][542]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.25.56:610][542]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.02:860][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.26.02:866][888]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.26.02:868][888]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.26.02:868][888]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.26.02:868][888]LogWorldPartition: Display: GetPartitionedActors took 28 us (total: 970 us)
+[2023.07.01-21.26.02:868][888]LogWorldPartition: Display: GenerateStreaming took 680 us (total: 22 ms)
+[2023.07.01-21.26.02:869][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.26.02:869][888]PIE: New page: PIE session: empty (Jul 1, 2023, 1:26:02 PM)
+[2023.07.01-21.26.02:903][888]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.26.02:915][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012647s)
+[2023.07.01-21.26.02:915][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.012688s)
+[2023.07.01-21.26.02:915][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.26.02:915][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.26.02:916][888]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.26.02:916][888]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.26.02:916][888]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.26.02:916][888]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.26.02:920][888]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.26.02:920][888]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 729 ms)
+[2023.07.01-21.26.02:920][888]LogPlayLevel: PIE: World Init took: (0.004314s)
+[2023.07.01-21.26.02:937][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.01-21.26.02:941][888]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.26.02:941][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.26.02:941][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.26.02:941][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.26.02:941][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.26.02:941][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.26.02:943][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.26.02:956][888]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.26.02:957][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.26.02:957][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.26.02:957][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.26.02:957][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.07.01-21.26.02:957][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.07.01-21.26.02:959][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.07.01-21.26.02:959][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.07.01-21.26.02:959][888]LogInit: FAudioDevice initialized with ID 34.
+[2023.07.01-21.26.02:959][888]LogAudio: Display: Audio Device (ID: 34) registered with world 'empty'.
+[2023.07.01-21.26.02:959][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.07.01-21.26.02:961][888]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.26.02:972][888]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.26.02
+[2023.07.01-21.26.02:972][888]LogWorld: Bringing up level for play took: 0.010575
+[2023.07.01-21.26.02:974][888]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2023.07.01-21.26.02:974][888]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.26.02:975][888]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1240.530 Y=-13155.431 Z=2083.660,P=0.000000 Y=144.999997 R=-0.000000
+[2023.07.01-21.26.02:977][888]LogStreaming: Display: FlushAsyncLoading(-1): 42 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.26.03:235][888]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(4)
+[2023.07.01-21.26.03:235][888]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-45.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.26.03:254][888]PIE: Server logged in
+[2023.07.01-21.26.03:254][888]PIE: Play in editor total start time 0.389 seconds.
+[2023.07.01-21.26.03:343][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:343][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:343][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:344][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:344][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:344][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:344][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:345][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:345][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:368][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:368][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:369][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:369][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:369][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:369][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:370][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:370][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.03:370][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.06:523][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.26.06:523][212]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.26.06:539][212]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.26.06:543][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.26.06:543][212]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.26.06:546][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.26.06:550][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.26.06:574][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.26.06:575][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.07.01-21.26.06:575][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.07.01-21.26.06:576][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.07.01-21.26.06:594][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.07.01-21.26.06:621][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.26.06:654][213]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2023.07.01-21.26.06:720][213]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.26.06:741][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:041][308]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.27.09:047][308]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.27.09:048][308]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.27.09:048][308]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.27.09:048][308]LogWorldPartition: Display: GetPartitionedActors took 27 us (total: 997 us)
+[2023.07.01-21.27.09:049][308]LogWorldPartition: Display: GenerateStreaming took 672 us (total: 22 ms)
+[2023.07.01-21.27.09:049][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.27.09:049][308]PIE: New page: PIE session: empty (Jul 1, 2023, 1:27:09 PM)
+[2023.07.01-21.27.09:051][308]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.27.09:064][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012963s)
+[2023.07.01-21.27.09:064][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.012992s)
+[2023.07.01-21.27.09:064][308]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.27.09:064][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.27.09:065][308]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.27.09:065][308]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.27.09:065][308]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.27.09:065][308]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.27.09:069][308]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.27.09:069][308]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 732 ms)
+[2023.07.01-21.27.09:069][308]LogPlayLevel: PIE: World Init took: (0.004537s)
+[2023.07.01-21.27.09:086][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.01-21.27.09:091][308]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.27.09:091][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.27.09:091][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.27.09:091][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.27.09:091][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.27.09:091][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.27.09:093][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.27.09:107][308]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.27.09:107][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.27.09:107][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.27.09:107][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.27.09:107][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.07.01-21.27.09:107][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.07.01-21.27.09:109][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.07.01-21.27.09:109][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.07.01-21.27.09:109][308]LogInit: FAudioDevice initialized with ID 35.
+[2023.07.01-21.27.09:109][308]LogAudio: Display: Audio Device (ID: 35) registered with world 'empty'.
+[2023.07.01-21.27.09:109][308]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2023.07.01-21.27.09:112][308]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.27.09:122][308]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.27.09
+[2023.07.01-21.27.09:122][308]LogWorld: Bringing up level for play took: 0.010242
+[2023.07.01-21.27.09:124][308]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2023.07.01-21.27.09:124][308]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(42), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.27.09:124][308]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-3781.625 Y=-6721.246 Z=2014.121,P=0.000000 Y=177.600009 R=-0.000000
+[2023.07.01-21.27.09:126][308]LogStreaming: Display: FlushAsyncLoading(-1): 43 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.27.09:387][308]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(0), CellsToLoad(0), CellsToUnload(1)
+[2023.07.01-21.27.09:387][308]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-45.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.27.09:387][308]PIE: Server logged in
+[2023.07.01-21.27.09:388][308]PIE: Play in editor total start time 0.341 seconds.
+[2023.07.01-21.27.09:479][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:479][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:480][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:480][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:480][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:480][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:481][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:481][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:481][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:509][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:509][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:510][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:510][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:510][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:510][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:511][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:511][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.09:511][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.14:272][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.27.14:273][855]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.27.14:288][855]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.27.14:292][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.27.14:292][855]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.27.14:296][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.27.14:300][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.27.14:318][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.01-21.27.14:323][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2023.07.01-21.27.14:323][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.07.01-21.27.14:325][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.07.01-21.27.14:327][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.27.14:341][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.01-21.27.14:354][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.27.14:387][856]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2023.07.01-21.27.14:391][856]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.27.14:436][856]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:026][580]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.28.22:032][580]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.28.22:035][580]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.28.22:035][580]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.28.22:035][580]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 1 ms)
+[2023.07.01-21.28.22:035][580]LogWorldPartition: Display: GenerateStreaming took 647 us (total: 23 ms)
+[2023.07.01-21.28.22:035][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.28.22:035][580]PIE: New page: PIE session: empty (Jul 1, 2023, 1:28:22 PM)
+[2023.07.01-21.28.22:036][580]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.28.22:049][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012765s)
+[2023.07.01-21.28.22:049][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.012803s)
+[2023.07.01-21.28.22:049][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.28.22:049][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.28.22:050][580]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.28.22:050][580]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.28.22:050][580]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.28.22:050][580]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.28.22:053][580]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.28.22:054][580]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 736 ms)
+[2023.07.01-21.28.22:054][580]LogPlayLevel: PIE: World Init took: (0.004356s)
+[2023.07.01-21.28.22:070][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.01-21.28.22:075][580]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.28.22:075][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.28.22:075][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.28.22:076][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.28.22:076][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.28.22:076][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.28.22:077][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.28.22:091][580]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.28.22:091][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.28.22:091][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.28.22:091][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.28.22:091][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.07.01-21.28.22:091][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.07.01-21.28.22:093][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.07.01-21.28.22:093][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.07.01-21.28.22:093][580]LogInit: FAudioDevice initialized with ID 36.
+[2023.07.01-21.28.22:093][580]LogAudio: Display: Audio Device (ID: 36) registered with world 'empty'.
+[2023.07.01-21.28.22:093][580]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2023.07.01-21.28.22:096][580]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.28.22:106][580]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.28.22
+[2023.07.01-21.28.22:106][580]LogWorld: Bringing up level for play took: 0.010479
+[2023.07.01-21.28.22:108][580]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2023.07.01-21.28.22:108][580]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.28.22:108][580]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-3412.129 Y=-3927.860 Z=1980.776,P=-0.000000 Y=-104.400001 R=0.000000
+[2023.07.01-21.28.22:111][580]LogStreaming: Display: FlushAsyncLoading(-1): 42 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.28.22:366][580]PIE: Server logged in
+[2023.07.01-21.28.22:366][580]PIE: Play in editor total start time 0.333 seconds.
+[2023.07.01-21.28.22:463][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:464][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:464][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:464][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:464][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:465][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:465][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:465][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:465][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:501][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:501][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:502][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:502][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:502][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:503][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:503][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:503][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.22:503][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.27:001][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.28.27:001][ 52]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.28.27:017][ 52]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.28.27:021][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.28.27:021][ 52]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.28.27:025][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.28.27:028][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.28.27:053][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.28.27:054][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2023.07.01-21.28.27:054][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.07.01-21.28.27:056][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.07.01-21.28.27:072][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.07.01-21.28.27:083][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.27:116][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.07.01-21.28.27:121][ 53]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.28.27:166][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:344][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.28.48:350][858]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.28.48:351][858]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.28.48:351][858]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.28.48:351][858]LogWorldPartition: Display: GetPartitionedActors took 25 us (total: 1 ms)
+[2023.07.01-21.28.48:352][858]LogWorldPartition: Display: GenerateStreaming took 709 us (total: 24 ms)
+[2023.07.01-21.28.48:352][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.28.48:352][858]PIE: New page: PIE session: empty (Jul 1, 2023, 1:28:48 PM)
+[2023.07.01-21.28.48:353][858]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.28.48:366][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013152s)
+[2023.07.01-21.28.48:366][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.013192s)
+[2023.07.01-21.28.48:366][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.28.48:366][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.28.48:366][858]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.28.48:367][858]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.28.48:367][858]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.28.48:367][858]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.28.48:370][858]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.28.48:370][858]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 740 ms)
+[2023.07.01-21.28.48:370][858]LogPlayLevel: PIE: World Init took: (0.004496s)
+[2023.07.01-21.28.48:387][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.07.01-21.28.48:391][858]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.28.48:391][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.28.48:391][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.28.48:392][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.28.48:392][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.28.48:392][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.28.48:393][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.28.48:407][858]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.28.48:407][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.28.48:407][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.28.48:407][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.28.48:408][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.07.01-21.28.48:408][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.07.01-21.28.48:409][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.07.01-21.28.48:409][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.07.01-21.28.48:409][858]LogInit: FAudioDevice initialized with ID 37.
+[2023.07.01-21.28.48:409][858]LogAudio: Display: Audio Device (ID: 37) registered with world 'empty'.
+[2023.07.01-21.28.48:409][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2023.07.01-21.28.48:412][858]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.28.48:423][858]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.28.48
+[2023.07.01-21.28.48:423][858]LogWorld: Bringing up level for play took: 0.010369
+[2023.07.01-21.28.48:424][858]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2023.07.01-21.28.48:425][858]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.28.48:425][858]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-4986.293 Y=-5087.942 Z=1939.256,P=-0.000000 Y=-53.200000 R=0.000000
+[2023.07.01-21.28.48:427][858]LogStreaming: Display: FlushAsyncLoading(-1): 42 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.28.48:683][858]PIE: Server logged in
+[2023.07.01-21.28.48:683][858]PIE: Play in editor total start time 0.334 seconds.
+[2023.07.01-21.28.48:706][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:706][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:707][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:707][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:707][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:708][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:708][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:708][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:708][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:820][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:820][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:821][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:821][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:821][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:821][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:822][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:822][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.48:822][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.52:051][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.28.52:051][194]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.28.52:067][194]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.28.52:071][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.28.52:071][194]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.28.52:075][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.28.52:079][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.28.52:098][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.01-21.28.52:103][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2023.07.01-21.28.52:103][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.07.01-21.28.52:105][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.07.01-21.28.52:107][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.28.52:121][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.07.01-21.28.52:132][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.52:142][195]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.07.01-21.28.52:148][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.52:726][250]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.28.52:731][250]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.28.52:733][250]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.28.52:733][250]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.28.52:733][250]LogWorldPartition: Display: GetPartitionedActors took 31 us (total: 1 ms)
+[2023.07.01-21.28.52:734][250]LogWorldPartition: Display: GenerateStreaming took 692 us (total: 24 ms)
+[2023.07.01-21.28.52:734][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.28.52:734][250]PIE: New page: PIE session: empty (Jul 1, 2023, 1:28:52 PM)
+[2023.07.01-21.28.52:734][250]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.28.52:748][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013012s)
+[2023.07.01-21.28.52:748][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.013040s)
+[2023.07.01-21.28.52:748][250]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.28.52:748][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.28.52:748][250]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.28.52:748][250]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.28.52:748][250]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.28.52:748][250]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.28.52:752][250]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.28.52:752][250]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 744 ms)
+[2023.07.01-21.28.52:752][250]LogPlayLevel: PIE: World Init took: (0.004685s)
+[2023.07.01-21.28.52:768][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.07.01-21.28.52:770][250]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.28.52:770][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.28.52:770][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.28.52:771][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.28.52:771][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.28.52:771][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.28.52:772][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.28.52:786][250]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.28.52:786][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.28.52:786][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.28.52:786][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.28.52:786][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.07.01-21.28.52:786][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.07.01-21.28.52:788][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.07.01-21.28.52:788][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.07.01-21.28.52:788][250]LogInit: FAudioDevice initialized with ID 38.
+[2023.07.01-21.28.52:788][250]LogAudio: Display: Audio Device (ID: 38) registered with world 'empty'.
+[2023.07.01-21.28.52:788][250]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2023.07.01-21.28.52:791][250]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.28.52:802][250]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.28.52
+[2023.07.01-21.28.52:802][250]LogWorld: Bringing up level for play took: 0.010400
+[2023.07.01-21.28.52:803][250]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2023.07.01-21.28.52:804][250]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.28.52:804][250]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-0.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.28.52:806][250]LogStreaming: Display: FlushAsyncLoading(-1): 42 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.28.53:060][250]PIE: Server logged in
+[2023.07.01-21.28.53:060][250]PIE: Play in editor total start time 0.329 seconds.
+[2023.07.01-21.28.53:084][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:084][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:084][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:084][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:085][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:085][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:085][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:085][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:086][250]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:189][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:189][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:190][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:190][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:190][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:191][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:191][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:191][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.28.53:191][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.32:361][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.29.32:361][287]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.29.32:377][287]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.29.32:381][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.29.32:381][287]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.29.32:385][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.29.32:389][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.29.32:414][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.29.32:415][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2023.07.01-21.29.32:415][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.07.01-21.29.32:416][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.07.01-21.29.32:433][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.01-21.29.32:462][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.32:473][288]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2023.07.01-21.29.32:536][288]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.55:187][264]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.29.58:969][539]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.29.58:976][539]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.29.58:978][539]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.29.58:978][539]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.29.58:978][539]LogWorldPartition: Display: GetPartitionedActors took 27 us (total: 1 ms)
+[2023.07.01-21.29.58:978][539]LogWorldPartition: Display: GenerateStreaming took 677 us (total: 25 ms)
+[2023.07.01-21.29.58:979][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.29.58:979][539]PIE: New page: PIE session: empty (Jul 1, 2023, 1:29:58 PM)
+[2023.07.01-21.29.58:979][539]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.29.58:994][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015257s)
+[2023.07.01-21.29.58:994][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.015284s)
+[2023.07.01-21.29.58:994][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.29.58:994][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.29.58:995][539]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.29.58:995][539]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.29.58:995][539]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.29.58:995][539]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.29.58:999][539]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.29.58:999][539]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 748 ms)
+[2023.07.01-21.29.58:999][539]LogPlayLevel: PIE: World Init took: (0.004932s)
+[2023.07.01-21.29.59:017][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.01-21.29.59:019][539]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.07.01-21.29.59:019][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.29.59:019][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.29.59:020][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.29.59:020][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.29.59:020][539]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.29.59:020][539]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.29.59:020][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.29.59:020][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.29.59:020][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.29.59:020][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.29.59:020][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.29.59:022][539]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.29.59:036][539]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.29.59:036][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.29.59:036][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.29.59:036][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.29.59:037][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.07.01-21.29.59:037][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.07.01-21.29.59:038][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.07.01-21.29.59:038][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.07.01-21.29.59:038][539]LogInit: FAudioDevice initialized with ID 39.
+[2023.07.01-21.29.59:038][539]LogAudio: Display: Audio Device (ID: 39) registered with world 'empty'.
+[2023.07.01-21.29.59:038][539]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2023.07.01-21.29.59:041][539]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.29.59:051][539]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.29.59
+[2023.07.01-21.29.59:052][539]LogWorld: Bringing up level for play took: 0.010307
+[2023.07.01-21.29.59:053][539]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2023.07.01-21.29.59:054][539]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.29.59:054][539]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=3643.217 Y=1412.256 Z=3841.108,P=-0.000000 Y=-144.799996 R=0.000000
+[2023.07.01-21.29.59:056][539]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-21.29.59:058][539]LogStreaming: Display: FlushAsyncLoading(-1): 39 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.29.59:312][539]PIE: Server logged in
+[2023.07.01-21.29.59:313][539]PIE: Play in editor total start time 0.336 seconds.
+[2023.07.01-21.29.59:410][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:410][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:410][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:410][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:411][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:411][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:411][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:412][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:412][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:434][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:434][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.29.59:435][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:445][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:446][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:446][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:446][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:447][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:447][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:447][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:447][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:448][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:508][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:508][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:509][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:509][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:509][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:510][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:510][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:510][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:511][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:549][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:550][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:550][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:550][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:551][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:551][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:551][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:552][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:552][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:631][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:631][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:631][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:632][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:632][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:632][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:633][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:633][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.04:633][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.07:271][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.30.07:271][303]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.30.07:286][303]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.30.07:291][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.30.07:291][303]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.30.07:295][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.30.07:299][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.30.07:323][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.30.07:324][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2023.07.01-21.30.07:324][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.07.01-21.30.07:326][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.07.01-21.30.07:342][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.07.01-21.30.07:353][303]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.07:385][304]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.07.01-21.30.07:391][304]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.30.07:436][304]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:123][344]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.30.08:128][344]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.30.08:130][344]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.30.08:130][344]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.30.08:130][344]LogWorldPartition: Display: GetPartitionedActors took 26 us (total: 1 ms)
+[2023.07.01-21.30.08:130][344]LogWorldPartition: Display: GenerateStreaming took 620 us (total: 26 ms)
+[2023.07.01-21.30.08:131][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.30.08:131][344]PIE: New page: PIE session: empty (Jul 1, 2023, 1:30:08 PM)
+[2023.07.01-21.30.08:131][344]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.30.08:144][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013803s)
+[2023.07.01-21.30.08:144][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.013825s)
+[2023.07.01-21.30.08:144][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.30.08:144][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.30.08:145][344]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.30.08:145][344]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.30.08:145][344]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.30.08:145][344]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.30.08:149][344]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.30.08:149][344]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 751 ms)
+[2023.07.01-21.30.08:149][344]LogPlayLevel: PIE: World Init took: (0.004556s)
+[2023.07.01-21.30.08:165][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.01-21.30.08:168][344]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.30.08:169][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.30.08:169][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.30.08:169][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.30.08:169][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.30.08:169][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.30.08:171][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.30.08:184][344]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.30.08:185][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.30.08:185][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.30.08:185][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.30.08:185][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.07.01-21.30.08:185][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.07.01-21.30.08:186][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.07.01-21.30.08:187][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.07.01-21.30.08:187][344]LogInit: FAudioDevice initialized with ID 40.
+[2023.07.01-21.30.08:187][344]LogAudio: Display: Audio Device (ID: 40) registered with world 'empty'.
+[2023.07.01-21.30.08:187][344]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2023.07.01-21.30.08:190][344]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.30.08:200][344]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.30.08
+[2023.07.01-21.30.08:200][344]LogWorld: Bringing up level for play took: 0.010400
+[2023.07.01-21.30.08:202][344]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.07.01-21.30.08:202][344]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.30.08:203][344]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=2063.858 Y=-1355.204 Z=1311.125,P=-0.000000 Y=-170.538031 R=0.000000
+[2023.07.01-21.30.08:204][344]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-21.30.08:207][344]LogStreaming: Display: FlushAsyncLoading(-1): 39 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.30.08:462][344]PIE: Server logged in
+[2023.07.01-21.30.08:462][344]PIE: Play in editor total start time 0.335 seconds.
+[2023.07.01-21.30.08:560][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:560][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:560][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:561][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:561][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:561][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:562][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:562][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:562][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:584][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:584][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:584][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:585][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:585][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:585][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:586][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:586][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.08:586][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.12:660][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.30.12:660][754]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.30.12:675][754]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.30.12:679][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.30.12:679][754]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.30.12:683][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.30.12:687][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.30.12:712][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.30.12:713][754]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2023.07.01-21.30.12:713][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.07.01-21.30.12:714][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.07.01-21.30.12:730][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.01-21.30.12:757][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.12:790][755]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.07.01-21.30.12:808][755]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.30.12:852][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:218][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.30.19:225][163]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.30.19:226][163]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.30.19:226][163]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.30.19:226][163]LogWorldPartition: Display: GetPartitionedActors took 29 us (total: 1 ms)
+[2023.07.01-21.30.19:227][163]LogWorldPartition: Display: GenerateStreaming took 640 us (total: 26 ms)
+[2023.07.01-21.30.19:228][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.30.19:228][163]PIE: New page: PIE session: empty (Jul 1, 2023, 1:30:19 PM)
+[2023.07.01-21.30.19:228][163]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.30.19:243][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015171s)
+[2023.07.01-21.30.19:243][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.015201s)
+[2023.07.01-21.30.19:243][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.30.19:243][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.30.19:243][163]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.30.19:244][163]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.30.19:244][163]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.30.19:244][163]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.30.19:248][163]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.30.19:248][163]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 755 ms)
+[2023.07.01-21.30.19:248][163]LogPlayLevel: PIE: World Init took: (0.004893s)
+[2023.07.01-21.30.19:265][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.07.01-21.30.19:268][163]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.30.19:268][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.30.19:268][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.30.19:269][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.30.19:269][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.30.19:269][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.30.19:270][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.30.19:284][163]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.30.19:285][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.30.19:285][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.30.19:285][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.30.19:285][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.07.01-21.30.19:285][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.07.01-21.30.19:286][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.07.01-21.30.19:286][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.07.01-21.30.19:286][163]LogInit: FAudioDevice initialized with ID 41.
+[2023.07.01-21.30.19:286][163]LogAudio: Display: Audio Device (ID: 41) registered with world 'empty'.
+[2023.07.01-21.30.19:286][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2023.07.01-21.30.19:289][163]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.30.19:300][163]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.30.19
+[2023.07.01-21.30.19:300][163]LogWorld: Bringing up level for play took: 0.010883
+[2023.07.01-21.30.19:302][163]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.07.01-21.30.19:302][163]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.30.19:302][163]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=2063.858 Y=-1355.204 Z=1311.125,P=-0.000000 Y=-160.628592 R=0.000000
+[2023.07.01-21.30.19:304][163]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-21.30.19:307][163]LogStreaming: Display: FlushAsyncLoading(-1): 39 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.30.19:561][163]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(3)
+[2023.07.01-21.30.19:561][163]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-45.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.30.19:579][163]PIE: Server logged in
+[2023.07.01-21.30.19:580][163]PIE: Play in editor total start time 0.355 seconds.
+[2023.07.01-21.30.19:675][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:675][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:675][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:675][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:676][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:676][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:676][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:676][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:677][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:699][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:699][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:699][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:700][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:700][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:700][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:701][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:701][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.19:701][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.24:660][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.30.24:660][671]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.30.24:677][671]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.30.24:681][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.30.24:681][671]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.30.24:685][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.30.24:689][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.30.24:714][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.30.24:716][671]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2023.07.01-21.30.24:716][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.07.01-21.30.24:717][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.07.01-21.30.24:734][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.07.01-21.30.24:761][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.24:794][672]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.07.01-21.30.24:811][672]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.30.24:857][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.30.35:586][345]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.31.04:367][ 72]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.31.15:700][893]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.31.17:548][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.31.17:554][  4]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.31.17:566][  4]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.31.17:566][  4]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.31.17:566][  4]LogWorldPartition: Display: GetPartitionedActors took 24 us (total: 1 ms)
+[2023.07.01-21.31.17:567][  4]LogWorldPartition: Display: GenerateStreaming took 675 us (total: 27 ms)
+[2023.07.01-21.31.17:567][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.31.17:567][  4]PIE: New page: PIE session: empty (Jul 1, 2023, 1:31:17 PM)
+[2023.07.01-21.31.17:568][  4]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.31.17:611][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043483s)
+[2023.07.01-21.31.17:611][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.043509s)
+[2023.07.01-21.31.17:611][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.31.17:611][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.31.17:612][  4]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.31.17:612][  4]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.31.17:612][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.31.17:612][  4]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.31.17:625][  4]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.31.17:625][  4]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 768 ms)
+[2023.07.01-21.31.17:625][  4]LogPlayLevel: PIE: World Init took: (0.013528s)
+[2023.07.01-21.31.17:658][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.07.01-21.31.17:664][  4]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.31.17:664][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.31.17:664][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.31.17:664][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.31.17:665][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.31.17:665][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.31.17:666][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.31.17:679][  4]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.31.17:680][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.31.17:680][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.31.17:680][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.31.17:680][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.07.01-21.31.17:680][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.07.01-21.31.17:682][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.07.01-21.31.17:682][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.07.01-21.31.17:682][  4]LogInit: FAudioDevice initialized with ID 42.
+[2023.07.01-21.31.17:682][  4]LogAudio: Display: Audio Device (ID: 42) registered with world 'empty'.
+[2023.07.01-21.31.17:682][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2023.07.01-21.31.17:684][  4]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.31.17:725][  4]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.31.17
+[2023.07.01-21.31.17:725][  4]LogWorld: Bringing up level for play took: 0.040773
+[2023.07.01-21.31.17:727][  4]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2023.07.01-21.31.17:728][  4]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.31.17:728][  4]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-12404.208 Y=18776.358 Z=16108.730,P=-0.000000 Y=-54.800000 R=0.000000
+[2023.07.01-21.31.17:729][  4]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-21.31.17:732][  4]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.31.18:355][  4]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(8), CellsToLoad(0), CellsToUnload(8)
+[2023.07.01-21.31.18:355][  4]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-45.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.31.18:398][  4]PIE: Server logged in
+[2023.07.01-21.31.18:399][  4]PIE: Play in editor total start time 0.845 seconds.
+[2023.07.01-21.31.18:547][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:547][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:548][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:548][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:548][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:548][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:549][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:549][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:549][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:599][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:599][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:600][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:600][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:600][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:600][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:601][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:601][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.18:601][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.52:930][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.31.52:930][493]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.31.53:060][493]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.31.53:076][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.31.53:076][493]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.31.53:080][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.31.53:085][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.31.53:122][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.01-21.31.53:122][493]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2023.07.01-21.31.53:123][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.07.01-21.31.53:124][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.07.01-21.31.53:127][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.31.53:177][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.01-21.31.53:211][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.31.53:246][494]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.07.01-21.31.53:265][494]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-21.31.53:312][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.10:721][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.32.10:727][633]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.32.10:739][633]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.32.10:739][633]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.32.10:739][633]LogWorldPartition: Display: GetPartitionedActors took 21 us (total: 1 ms)
+[2023.07.01-21.32.10:740][633]LogWorldPartition: Display: GenerateStreaming took 705 us (total: 28 ms)
+[2023.07.01-21.32.10:740][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.32.10:740][633]PIE: New page: PIE session: empty (Jul 1, 2023, 1:32:10 PM)
+[2023.07.01-21.32.10:740][633]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.32.10:785][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043906s)
+[2023.07.01-21.32.10:785][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.043928s)
+[2023.07.01-21.32.10:785][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.32.10:785][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.32.10:785][633]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.32.10:785][633]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.32.10:785][633]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.32.10:785][633]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.32.10:798][633]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.32.10:798][633]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 780 ms)
+[2023.07.01-21.32.10:798][633]LogPlayLevel: PIE: World Init took: (0.013063s)
+[2023.07.01-21.32.10:830][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.01-21.32.10:836][633]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.32.10:836][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.32.10:836][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.32.10:837][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.32.10:837][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.32.10:837][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.32.10:838][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.32.10:853][633]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.32.10:853][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.32.10:853][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.32.10:853][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.32.10:854][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.07.01-21.32.10:854][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.07.01-21.32.10:855][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.07.01-21.32.10:855][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.07.01-21.32.10:855][633]LogInit: FAudioDevice initialized with ID 43.
+[2023.07.01-21.32.10:855][633]LogAudio: Display: Audio Device (ID: 43) registered with world 'empty'.
+[2023.07.01-21.32.10:855][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2023.07.01-21.32.10:858][633]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.32.10:899][633]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.32.10
+[2023.07.01-21.32.10:899][633]LogWorld: Bringing up level for play took: 0.040665
+[2023.07.01-21.32.10:901][633]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2023.07.01-21.32.10:901][633]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.32.10:901][633]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-0.000000 Y=-53.000000 R=0.000000
+[2023.07.01-21.32.10:903][633]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-21.32.10:905][633]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.32.11:696][633]PIE: Server logged in
+[2023.07.01-21.32.11:696][633]PIE: Play in editor total start time 0.97 seconds.
+[2023.07.01-21.32.11:778][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:778][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:778][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:778][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:779][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:779][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:779][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:780][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:780][633]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:868][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:868][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:868][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:869][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:869][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:869][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:870][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:870][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.11:870][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.15:210][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.32.15:210][972]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.32.15:239][972]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.32.15:254][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.32.15:254][972]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.32.15:258][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.32.15:263][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.32.15:297][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.32.15:312][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2023.07.01-21.32.15:313][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.07.01-21.32.15:314][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.07.01-21.32.15:351][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.07.01-21.32.15:365][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.15:376][973]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2023.07.01-21.32.15:383][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.25:201][699]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-21.32.25:207][699]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-21.32.25:220][699]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-21.32.25:220][699]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-21.32.25:220][699]LogWorldPartition: Display: GetPartitionedActors took 26 us (total: 1 ms)
+[2023.07.01-21.32.25:220][699]LogWorldPartition: Display: GenerateStreaming took 703 us (total: 28 ms)
+[2023.07.01-21.32.25:221][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-21.32.25:221][699]PIE: New page: PIE session: empty (Jul 1, 2023, 1:32:25 PM)
+[2023.07.01-21.32.25:221][699]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.32.25:267][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045947s)
+[2023.07.01-21.32.25:267][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.045973s)
+[2023.07.01-21.32.25:267][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-21.32.25:267][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-21.32.25:268][699]LogAIModule: Creating AISystem for world empty
+[2023.07.01-21.32.25:268][699]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-21.32.25:268][699]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-21.32.25:268][699]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-21.32.25:284][699]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-21.32.25:284][699]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 797 ms)
+[2023.07.01-21.32.25:284][699]LogPlayLevel: PIE: World Init took: (0.018201s)
+[2023.07.01-21.32.25:317][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.07.01-21.32.25:323][699]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-21.32.25:323][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-21.32.25:323][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-21.32.25:323][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-21.32.25:323][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-21.32.25:323][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-21.32.25:324][699]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-21.32.25:340][699]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-21.32.25:340][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-21.32.25:340][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-21.32.25:340][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-21.32.25:341][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.07.01-21.32.25:341][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.07.01-21.32.25:343][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.07.01-21.32.25:343][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.07.01-21.32.25:343][699]LogInit: FAudioDevice initialized with ID 44.
+[2023.07.01-21.32.25:343][699]LogAudio: Display: Audio Device (ID: 44) registered with world 'empty'.
+[2023.07.01-21.32.25:343][699]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2023.07.01-21.32.25:346][699]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-21.32.25:392][699]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-17.32.25
+[2023.07.01-21.32.25:392][699]LogWorld: Bringing up level for play took: 0.046052
+[2023.07.01-21.32.25:394][699]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2023.07.01-21.32.25:394][699]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-21.32.25:394][699]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-0.000000 Y=-45.000000 R=0.000000
+[2023.07.01-21.32.25:396][699]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-21.32.25:398][699]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.07.01-21.32.26:033][699]PIE: Server logged in
+[2023.07.01-21.32.26:034][699]PIE: Play in editor total start time 0.827 seconds.
+[2023.07.01-21.32.26:108][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:109][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:109][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:109][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:110][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:110][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:110][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:111][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:111][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:202][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:202][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:202][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:203][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:203][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:203][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:203][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:204][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.26:204][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.36:609][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.32.36:609][754]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-21.32.36:638][754]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-21.32.36:653][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.32.36:653][754]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-21.32.36:656][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-21.32.36:661][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-21.32.36:703][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.01-21.32.36:703][754]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2023.07.01-21.32.36:703][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.07.01-21.32.36:704][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.07.01-21.32.36:707][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-21.32.36:752][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.07.01-21.32.36:766][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.36:777][755]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.07.01-21.32.36:783][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.32.38:813][933]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-21.37.05:217][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.01-21.37.05:324][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto8
+[2023.07.01-21.37.05:324][350]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61_Auto8D16133EC44AD8C3656CAA2AA59102233.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto8.uasset'
+[2023.07.01-21.37.05:326][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7_Auto8
+[2023.07.01-21.37.05:326][350]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/MKK0LI09DNYDND9EQJ5XX7_Auto888F24EC64FFFF703251C388B77D2B64C.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7_Auto8.uasset'
+[2023.07.01-21.37.05:327][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.132
+[2023.07.01-21.37.05:328][350]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.132
+[2023.07.01-21.39.30:455][786]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1321 files in 2002 folders with total size 13 MiB.
+[2023.07.01-22.39.30:459][583]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.039 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1321 files in 2002 folders with total size 13 MiB.
+[2023.07.01-22.58.23:685][147]LogSlate: Window 'Open Level' being destroyed
+[2023.07.01-22.58.33:741][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.09:425][492]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-22.59.12:210][682]LogViewport: Scene viewport resized to 1331x749, mode Windowed.
+[2023.07.01-22.59.23:871][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.01-22.59.23:877][734]LogContentBundle: [empty(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.07.01-22.59.23:889][734]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.01-22.59.23:889][734]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.01-22.59.23:889][734]LogWorldPartition: Display: GetPartitionedActors took 24 us (total: 1 ms)
+[2023.07.01-22.59.23:890][734]LogWorldPartition: Display: GenerateStreaming took 658 us (total: 29 ms)
+[2023.07.01-22.59.23:890][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.01-22.59.23:890][734]PIE: New page: PIE session: empty (Jul 1, 2023, 2:59:23 PM)
+[2023.07.01-22.59.23:891][734]LogPlayLevel: Creating play world package: /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-22.59.23:935][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044450s)
+[2023.07.01-22.59.23:935][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DirtGameJam/Maps/empty.empty to /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty (0.044479s)
+[2023.07.01-22.59.23:935][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-22.59.23:935][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-22.59.23:936][734]LogAIModule: Creating AISystem for world empty
+[2023.07.01-22.59.23:936][734]LogWorldPartition: ULevel::OnLevelLoaded(empty)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.07.01-22.59.23:936][734]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.01-22.59.23:936][734]LogWorldPartition: UWorldPartition::Initialize(Asset=empty, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.01-22.59.23:948][734]LogContentBundle: [empty(Standalone)] Creating new contrainer.
+[2023.07.01-22.59.23:948][734]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 809 ms)
+[2023.07.01-22.59.23:948][734]LogPlayLevel: PIE: World Init took: (0.012787s)
+[2023.07.01-22.59.23:966][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.07.01-22.59.23:969][734]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.01-22.59.23:969][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.01-22.59.23:969][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.01-22.59.23:970][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.01-22.59.23:970][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.01-22.59.23:970][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.01-22.59.23:971][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.01-22.59.23:985][734]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- Arctis 7 Chat)
+[2023.07.01-22.59.23:985][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.01-22.59.23:986][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.01-22.59.23:986][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.01-22.59.23:986][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.07.01-22.59.23:986][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.07.01-22.59.23:987][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.07.01-22.59.23:987][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.07.01-22.59.23:987][734]LogInit: FAudioDevice initialized with ID 45.
+[2023.07.01-22.59.23:987][734]LogAudio: Display: Audio Device (ID: 45) registered with world 'empty'.
+[2023.07.01-22.59.23:987][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2023.07.01-22.59.23:990][734]LogLoad: Game class is 'GameModeBase'
+[2023.07.01-22.59.24:035][734]LogWorld: Bringing World /Game/DirtGameJam/Maps/UEDPIE_0_empty.empty up for play (max tick rate 0) at 2023.07.01-18.59.24
+[2023.07.01-22.59.24:035][734]LogWorld: Bringing up level for play took: 0.044932
+[2023.07.01-22.59.24:037][734]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.07.01-22.59.24:038][734]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.07.01-22.59.24:038][734]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2503.954 Y=12394.780 Z=9009.216,P=-0.000000 Y=-102.399953 R=0.000000
+[2023.07.01-22.59.24:039][734]LogActor: Warning: Actor folder D451E24A4619AA95391CB6812D512A9A for actor CameraActor_UAID_FC34976B390B939101_1732162151 encountered when not using actor folders
+[2023.07.01-22.59.24:042][734]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.07.01-22.59.24:687][734]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(6)
+[2023.07.01-22.59.24:687][734]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-5000.000 Y=-5000.000 Z=2000.000,P=-45.000000 Y=-45.000000 R=0.000000
+[2023.07.01-22.59.24:723][734]PIE: Server logged in
+[2023.07.01-22.59.24:724][734]PIE: Play in editor total start time 0.846 seconds.
+[2023.07.01-22.59.24:795][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:795][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:796][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:796][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:796][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:797][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:797][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:797][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:798][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:880][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:880][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:881][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:881][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:881][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:881][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:882][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:882][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.24:882][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.43:123][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-22.59.43:123][813]LogWorld: BeginTearingDown for /Game/DirtGameJam/Maps/UEDPIE_0_empty
+[2023.07.01-22.59.43:153][813]LogWorld: UWorld::CleanupWorld for empty, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-22.59.43:168][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-22.59.43:168][813]LogContentBundle: [empty(Standalone)] Deleting container.
+[2023.07.01-22.59.43:171][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.01-22.59.43:176][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-22.59.43:214][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.01-22.59.43:224][813]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2023.07.01-22.59.43:224][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.07.01-22.59.43:226][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.07.01-22.59.43:229][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.01-22.59.43:267][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.07.01-22.59.43:298][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-22.59.43:309][814]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.07.01-22.59.43:381][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-23.00.12:683][625]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.01-23.01.16:511][430]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2023.07.01-23.01.19:373][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TempActor.TempActor
+[2023.07.01-23.01.19:373][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-23.01.19:373][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-23.01.26:554][317]LogSlate: Window 'TempActor' being destroyed
+[2023.07.01-23.01.26:560][317]LogSlate: Window 'TempActor' being destroyed
+[2023.07.01-23.01.26:562][317]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-23.01.26:562][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-23.01.29:886][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GridGenerator.GridGenerator
+[2023.07.01-23.01.29:886][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.01-23.01.29:886][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.01-23.39.29:474][190]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1321 files in 2002 folders with total size 13 MiB.
+[2023.07.02-00.39.30:458][121]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.035 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1321 files in 2002 folders with total size 13 MiB.
+[2023.07.02-01.31.25:834][514]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TempActor.TempActor
+[2023.07.02-01.31.25:834][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.31.25:834][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.36.11:437][658]BlueprintLog: New page: Compile TempActor
+[2023.07.02-01.36.11:440][658]LogBlueprint: Error: [AssetLog] C:\Users\josep\Documents\Unreal Projects\DirtGameJam\Content\TempActor.uasset: [Compiler] The current value of the ' Accessor ' pin is invalid: 'Accessor' in action 'Set Disable Collision' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.07.02-01.36.11:476][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.07.02-01.36.33:937][778]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UConstraintInstanceBlueprintLibrary::SetDisableCollision' [The specified module could not be found.]
+[2023.07.02-01.37.58:942][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.07.02-01.37.59:047][628]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto9
+[2023.07.02-01.37.59:047][628]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61_Auto9EF00D94849D12AF3A9ABD9BA8A8E6A09.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto9.uasset'
+[2023.07.02-01.37.59:048][628]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.140
+[2023.07.02-01.37.59:048][628]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.140
+[2023.07.02-01.37.59:048][628]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TempActor] ([2] browsable assets)...
+[2023.07.02-01.37.59:114][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TempActor.TempActor]
+[2023.07.02-01.37.59:115][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/TempActor]
+[2023.07.02-01.37.59:116][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempActor" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/TempActor_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2023.07.02-01.37.59:121][628]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TempActor_Auto9
+[2023.07.02-01.37.59:121][628]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/TempActor_Auto9D4422D02413146285F86F49F32C0513A.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/TempActor_Auto9.uasset'
+[2023.07.02-01.37.59:122][628]LogFileHelpers: Auto-saving content packages took 0.073
+[2023.07.02-01.38.12:109][327]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-01.38.13:622][470]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-01.38.18:192][893]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-01.38.30:668][ 60]LogViewport: Scene viewport resized to 1827x796, mode Windowed.
+[2023.07.02-01.39.30:450][276]LogDerivedDataCache: C:/Users/josep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.028 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1321 files in 2002 folders with total size 13 MiB.
+[2023.07.02-01.40.59:096][466]LogSlate: Window 'TempActor' being destroyed
+[2023.07.02-01.40.59:103][466]LogSlate: Window 'TempActor' being destroyed
+[2023.07.02-01.40.59:106][466]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.40.59:106][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.40.59:150][466]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.02-01.40.59:150][466]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.40.59:150][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.41.39:391][636]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.02-01.41.39:401][636]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.02-01.41.39:409][636]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.02-01.41.39:426][637]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.02-01.41.42:581][952]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turret
+[2023.07.02-01.41.42:586][952]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.02-01.41.44:878][ 58]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Turret.Turret
+[2023.07.02-01.41.44:878][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.41.44:878][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.41.44:976][ 58]LogViewport: Scene viewport resized to 1647x799, mode Windowed.
+[2023.07.02-01.41.55:755][ 12]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.07.02-01.42.40:393][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.42.53:070][715]LogEditorTransaction: Undo Replace component used material
+[2023.07.02-01.42.53:134][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-01.46.39:221][541]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.02-01.46.39:232][541]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.02-01.46.39:242][541]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.02-01.46.39:258][542]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.02-01.46.44:699][ 43]LogContentBrowser: Attempting asset rename: NewBlueprint -> TempTarget
+[2023.07.02-01.46.44:704][ 43]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.02-01.46.46:182][174]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TempTarget.TempTarget
+[2023.07.02-01.46.46:183][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.46.46:183][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.46.46:280][174]LogViewport: Scene viewport resized to 1447x554, mode Windowed.
+[2023.07.02-01.46.46:320][175]LogViewport: Scene viewport resized to 1447x537, mode Windowed.
+[2023.07.02-01.46.46:377][176]LogViewport: Scene viewport resized to 1447x527, mode Windowed.
+[2023.07.02-01.46.54:504][  2]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.07.02-01.47.43:638][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.47.45:890][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-01.47.45:930][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempTarget" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempTarget.uasset" SILENT=true
+[2023.07.02-01.47.45:932][793]LogSavePackage: Moving output files for package: /Game/TempTarget
+[2023.07.02-01.47.45:932][793]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/TempTarget882E35764DFB790325C6088831A70299.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempTarget.uasset'
+[2023.07.02-01.47.45:941][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.63 sec)
+[2023.07.02-01.47.45:947][793]AssetCheck: New page: Asset Save: TempTarget
+[2023.07.02-01.47.45:947][793]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TempTarget.TempTarget
+[2023.07.02-01.49.53:836][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.02-01.49.53:940][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto0
+[2023.07.02-01.49.53:940][157]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61_Auto097CB97604EBDF3C276602A976C22E2E7.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto0.uasset'
+[2023.07.02-01.49.53:942][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7_Auto0
+[2023.07.02-01.49.53:942][157]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/MKK0LI09DNYDND9EQJ5XX7_Auto04F9AB12A414BFDDBE4F08F869D652EAE.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7_Auto0.uasset'
+[2023.07.02-01.49.53:943][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.130
+[2023.07.02-01.49.53:943][157]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.130
+[2023.07.02-01.49.53:943][157]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TempActor] ([2] browsable assets)...
+[2023.07.02-01.49.53:943][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/TempActor]
+[2023.07.02-01.49.53:943][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempActor" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/TempActor_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.07.02-01.49.53:949][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TempActor_Auto0
+[2023.07.02-01.49.53:949][157]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/TempActor_Auto05FC4631B4C0F3CA0DA0DE18E6C88E611.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/TempActor_Auto0.uasset'
+[2023.07.02-01.49.53:950][157]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Turret] ([2] browsable assets)...
+[2023.07.02-01.49.53:966][157]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Turret.Turret]
+[2023.07.02-01.49.53:966][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/Turret]
+[2023.07.02-01.49.53:966][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turret" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/Turret_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.07.02-01.49.53:970][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Turret_Auto0
+[2023.07.02-01.49.53:970][157]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Turret_Auto032BC148648441595EDADA696329A2FD4.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/Turret_Auto0.uasset'
+[2023.07.02-01.49.53:970][157]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.07.02-01.50.26:574][940]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TempActor.TempActor
+[2023.07.02-01.50.26:574][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.50.26:574][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.50.30:775][305]BlueprintLog: New page: Compile TempActor
+[2023.07.02-01.50.30:812][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.02-01.50.50:401][ 32]LogViewport: Scene viewport resized to 1447x527, mode Windowed.
+[2023.07.02-01.51.15:769][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-01.51.15:809][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempActor" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempActor.uasset" SILENT=true
+[2023.07.02-01.51.15:815][183]LogSavePackage: Moving output files for package: /Game/TempActor
+[2023.07.02-01.51.15:815][183]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/TempActor1798590749295B9FE785D7BE3084B067.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempActor.uasset'
+[2023.07.02-01.51.15:822][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.68 sec)
+[2023.07.02-01.51.15:828][183]AssetCheck: New page: Asset Save: TempActor
+[2023.07.02-01.51.15:828][183]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TempActor.TempActor
+[2023.07.02-01.52.02:398][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-01.52.02:448][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempActor" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempActor.uasset" SILENT=true
+[2023.07.02-01.52.02:454][103]LogSavePackage: Moving output files for package: /Game/TempActor
+[2023.07.02-01.52.02:454][103]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/TempActorFB64DE1E46565446CD825F88FD200BF5.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempActor.uasset'
+[2023.07.02-01.52.02:463][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.74 sec)
+[2023.07.02-01.52.02:467][103]AssetCheck: New page: Asset Save: TempActor
+[2023.07.02-01.52.02:468][103]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TempActor.TempActor
+[2023.07.02-01.55.47:906][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GridGenerator.GridGenerator
+[2023.07.02-01.55.47:907][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.55.47:907][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.56.51:744][846]LogContentBrowser: Attempting asset rename: GridGenerator -> GridGenerator
+[2023.07.02-01.57.37:632][434]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-01.57.53:978][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-01.57.54:026][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Sphere" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Sphere.uasset" SILENT=true
+[2023.07.02-01.57.54:030][ 40]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Sphere
+[2023.07.02-01.57.54:030][ 40]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/SphereDA8B8E35453B2E76BB24CD89BBB979BE.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Sphere.uasset'
+[2023.07.02-01.57.54:042][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.81 sec)
+[2023.07.02-01.57.54:074][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.07.02-01.57.54:096][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.02-01.57.54:117][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.02-01.57.54:135][ 40]AssetCheck: New page: Asset Save: Sphere
+[2023.07.02-01.57.54:135][ 40]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Sphere.Sphere
+[2023.07.02-01.57.57:465][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-01.57.57:493][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/Sphere" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Meshes/Sphere.uasset" SILENT=true
+[2023.07.02-01.57.57:496][390]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/Sphere
+[2023.07.02-01.57.57:496][390]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Sphere5A8AAF5D43BF347E9363A9BAA20BF6B3.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Meshes/Sphere.uasset'
+[2023.07.02-01.57.57:505][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 2.85 sec)
+[2023.07.02-01.57.57:536][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.07.02-01.57.57:556][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.07.02-01.57.57:575][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.02-01.57.57:593][390]AssetCheck: New page: Asset Save: Sphere
+[2023.07.02-01.57.57:593][390]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/Sphere.Sphere
+[2023.07.02-01.57.59:024][514]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/Sphere.Sphere
+[2023.07.02-01.57.59:042][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.57.59:042][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.57.59:520][514]LogViewport: Scene viewport resized to 1995x1395, mode Windowed.
+[2023.07.02-01.58.14:519][571]LogStaticMesh: Display: Building static mesh Sphere...
+[2023.07.02-01.58.14:524][571]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/Sphere.Sphere
+[2023.07.02-01.58.23:847][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-01.58.23:905][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/Sphere" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Meshes/Sphere.uasset" SILENT=true
+[2023.07.02-01.58.23:908][188]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/Sphere
+[2023.07.02-01.58.23:909][188]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/SphereD251EAA94DD472C343AB9CAE5CDCAEAA.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Meshes/Sphere.uasset'
+[2023.07.02-01.58.23:917][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.92 sec)
+[2023.07.02-01.58.23:922][188]AssetCheck: New page: Asset Save: Sphere
+[2023.07.02-01.58.23:922][188]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/Sphere.Sphere
+[2023.07.02-01.58.33:634][838]LogSlate: Window 'Sphere' being destroyed
+[2023.07.02-01.58.33:640][838]LogSlate: Window 'Sphere' being destroyed
+[2023.07.02-01.58.33:642][838]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.58.33:643][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.58.33:691][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.02-01.58.33:691][838]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.58.33:691][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.58.33:742][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.02-01.58.33:743][838]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.58.33:743][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.58.33:808][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.02-01.58.33:808][838]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.58.33:808][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.58.33:982][838]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.58.33:982][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.58.46:623][968]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GridGenerator.GridGenerator
+[2023.07.02-01.58.46:623][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-01.58.46:623][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.59.53:196][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-02.00.26:715][648]LogContentBrowser: Attempting asset rename: Sphere -> SM_Sphere_NoCollision
+[2023.07.02-02.00.26:742][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-02.00.26:776][648]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision
+[2023.07.02-02.00.26:776][648]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/SM_Sphere_NoCollision82F6B2DA438E691B4B089B950FC21CE7.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Meshes/SM_Sphere_NoCollision.uasset'
+[2023.07.02-02.00.26:785][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.96 sec)
+[2023.07.02-02.00.26:835][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.02-02.00.26:859][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.02-02.00.26:878][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.02-02.00.26:883][648]AssetCheck: New page: Asset Save: SM_Sphere_NoCollision
+[2023.07.02-02.00.26:883][648]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision
+[2023.07.02-02.00.31:197][ 48]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision
+[2023.07.02-02.00.31:216][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-02.00.31:217][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-02.00.31:682][ 48]LogViewport: Scene viewport resized to 1999x1400, mode Windowed.
+[2023.07.02-02.00.32:937][134]LogSlate: Window 'SM_Sphere_NoCollision' being destroyed
+[2023.07.02-02.00.32:943][134]LogSlate: Window 'SM_Sphere_NoCollision' being destroyed
+[2023.07.02-02.00.32:945][134]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-02.00.32:945][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-02.00.33:104][134]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-02.00.33:104][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-02.00.47:200][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-02.00.47:356][484]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61
+[2023.07.02-02.00.47:356][484]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G612A02528B48415B833CF5B09700570186.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61.uasset'
+[2023.07.02-02.00.47:358][484]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7
+[2023.07.02-02.00.47:359][484]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/MKK0LI09DNYDND9EQJ5XX734A0D446430D48CD2E9F539D65268146.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/__ExternalActors__/DirtGameJam/Maps/empty/2/3J/MKK0LI09DNYDND9EQJ5XX7.uasset'
+[2023.07.02-02.00.47:368][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 3.13 sec)
+[2023.07.02-02.00.47:375][484]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.02-02.00.47:375][484]LogContentValidation: Display: Validating /Script/Engine.CameraActor /Game/DirtGameJam/Maps/empty.empty:PersistentLevel.CameraActor_UAID_FC34976B390B939101_1732162151
+[2023.07.02-02.00.47:375][484]LogContentValidation: Display: Validating /Game/GridGenerator.GridGenerator_C /Game/DirtGameJam/Maps/empty.empty:PersistentLevel.GridGenerator_C_UAID_FC34976B390B969101_1472953680
+[2023.07.02-02.02.01:382][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.07.02-02.02.01:389][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.032
+[2023.07.02-02.02.01:389][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GridGenerator] ([2] browsable assets)...
+[2023.07.02-02.02.01:389][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/GridGenerator]
+[2023.07.02-02.02.01:389][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GridGenerator" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/GridGenerator_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.07.02-02.02.01:403][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GridGenerator_Auto1
+[2023.07.02-02.02.01:403][227]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/GridGenerator_Auto1661B036F448A955D9F71EFA9DAF0097F.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/GridGenerator_Auto1.uasset'
+[2023.07.02-02.02.01:404][227]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Turret] ([2] browsable assets)...
+[2023.07.02-02.02.01:476][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Turret.Turret]
+[2023.07.02-02.02.01:476][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Turret]
+[2023.07.02-02.02.01:476][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turret" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/Turret_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.07.02-02.02.01:480][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Turret_Auto1
+[2023.07.02-02.02.01:480][227]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Turret_Auto195E252914ADD452180A4ED817834830E.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/Turret_Auto1.uasset'
+[2023.07.02-02.02.01:480][227]LogFileHelpers: Auto-saving content packages took 0.091
+[2023.07.02-02.03.31:968][798]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision
+[2023.07.02-02.03.31:997][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-02.03.31:997][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-02.03.32:476][798]LogViewport: Scene viewport resized to 2003x1405, mode Windowed.
+[2023.07.02-02.03.55:055][335]LogSlate: Window 'SM_Sphere_NoCollision' being destroyed
+[2023.07.02-02.03.55:061][335]LogSlate: Window 'SM_Sphere_NoCollision' being destroyed
+[2023.07.02-02.03.55:151][335]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-02.03.55:151][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-02.05.07:375][884]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-02.05.10:872][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: ================================================
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: RAM used: 18.65 KiB of 3.20 GiB budget. Usage: 0.00%
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 1.04 s
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 1.07
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Average processing rate: 0.93 jobs/sec
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Total thread time: 0.606 s
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Total thread preprocess time: 0.33 s
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Percentage time preprocessing: 54.52%
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.07.02-02.05.11:989][315]LogShaderCompilers: Display: ================================================
+[2023.07.02-02.05.17:760][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TempActor.TempActor
+[2023.07.02-02.05.17:760][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-02.05.17:760][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-02.05.29:381][695]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.02-02.07.28:799][390]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision
+[2023.07.02-02.07.28:818][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-02.07.28:818][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-02.07.29:285][390]LogViewport: Scene viewport resized to 2006x1410, mode Windowed.
+[2023.07.02-02.09.30:845][133]LogViewport: Scene viewport resized to 1628x946, mode Windowed.
+[2023.07.02-02.10.14:791][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GridGenerator.GridGenerator
+[2023.07.02-02.10.14:792][366]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.02-02.10.14:792][366]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-02.10.17:076][502]BlueprintLog: New page: Compile GridGenerator
+[2023.07.02-02.10.17:481][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.07.02-02.10.34:840][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-02.10.34:871][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GridGenerator" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/GridGenerator.uasset" SILENT=true
+[2023.07.02-02.10.34:885][524]LogSavePackage: Moving output files for package: /Game/GridGenerator
+[2023.07.02-02.10.34:886][524]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/GridGeneratorA89D86CB458D84B9246AAEAFF48A40F4.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/GridGenerator.uasset'
+[2023.07.02-02.10.34:894][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 3.18 sec)
+[2023.07.02-02.10.34:900][524]AssetCheck: New page: Asset Save: GridGenerator
+[2023.07.02-02.10.34:900][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GridGenerator.GridGenerator
+[2023.07.02-02.10.36:415][628]LogViewport: Scene viewport resized to 1628x946, mode Windowed.
+[2023.07.02-02.12.01:806][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.07.02-02.12.01:915][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto2
+[2023.07.02-02.12.01:916][413]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61_Auto2058E3881470F2FDF1BFB9886356F5681.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61_Auto2.uasset'
+[2023.07.02-02.12.01:917][413]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DirtGameJam/Maps/empty' took 0.142
+[2023.07.02-02.12.01:917][413]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2023.07.02-02.12.01:917][413]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision] ([1] browsable assets)...
+[2023.07.02-02.12.01:925][413]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision]
+[2023.07.02-02.12.01:925][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision]
+[2023.07.02-02.12.01:928][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision_Auto2
+[2023.07.02-02.12.01:928][413]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/SM_Sphere_NoCollision_Auto29350713044C17B1A349F5C82946275D4.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Autosaves/Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision_Auto2.uasset'
+[2023.07.02-02.12.01:929][413]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.07.02-02.13.07:793][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-02.13.07:822][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempActor" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempActor.uasset" SILENT=true
+[2023.07.02-02.13.07:828][300]LogSavePackage: Moving output files for package: /Game/TempActor
+[2023.07.02-02.13.07:829][300]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/TempActor346EC0D1487A98A07AD70CB04D625FA2.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/TempActor.uasset'
+[2023.07.02-02.13.07:836][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.23 sec)
+[2023.07.02-02.13.07:842][300]AssetCheck: New page: Asset Save: TempActor
+[2023.07.02-02.13.07:842][300]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TempActor.TempActor
+[2023.07.02-02.19.11:000][194]LogSlate: Window 'GridGenerator' being destroyed
+[2023.07.02-02.19.11:009][194]LogSlate: Window 'GridGenerator' being destroyed
+[2023.07.02-02.19.11:012][194]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-02.19.11:012][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-02.19.11:182][194]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-02.19.11:182][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-02.19.11:220][194]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.02-02.19.11:220][194]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-02.19.11:220][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-02.19.17:671][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.02-02.19.17:683][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.02-02.19.17:835][506]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61
+[2023.07.02-02.19.17:835][506]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/2TP3WOOTEI864GYRBM0G61A237EE0746F6CABFB2FC8698F3AD7C62.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/__ExternalActors__/DirtGameJam/Maps/empty/1/TH/2TP3WOOTEI864GYRBM0G61.uasset'
+[2023.07.02-02.19.17:837][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turret" FILE="../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/Turret.uasset" SILENT=true
+[2023.07.02-02.19.17:840][506]LogSavePackage: Moving output files for package: /Game/Turret
+[2023.07.02-02.19.17:841][506]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/Turret2D02CA0F4F72F0AA667F00909AE449B1.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/Turret.uasset'
+[2023.07.02-02.19.17:847][506]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision
+[2023.07.02-02.19.17:847][506]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Saved/SM_Sphere_NoCollisionDE3E8F224A8DE6E85F6DF99DE6516660.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/DirtGameJam/Content/LevelPrototyping/Meshes/SM_Sphere_NoCollision.uasset'
+[2023.07.02-02.19.17:854][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 3.40 sec)
+[2023.07.02-02.19.17:862][506]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.02-02.19.17:862][506]LogContentValidation: Display: Validating /Game/GridGenerator.GridGenerator_C /Game/DirtGameJam/Maps/empty.empty:PersistentLevel.GridGenerator_C_UAID_FC34976B390B969101_1472953680
+[2023.07.02-02.19.17:862][506]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/SM_Sphere_NoCollision.SM_Sphere_NoCollision
+[2023.07.02-02.19.17:862][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Turret.Turret
